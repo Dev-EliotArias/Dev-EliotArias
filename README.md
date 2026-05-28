@@ -1,13 +1,100 @@
-<h1 align="center">Hi 👋, I'm Eliot Roy Arias Flores</h1>
-<h3 align="center">A passionate backend developer from Peru</h3>
+<h1 align="center">Eliot Roy Arias Flores</h1>
 
-- 🌱 I’m currently learning **Angular, SpringBoot**
+<h3 align="center">
+Full Stack Developer | Angular • Spring Boot • .NET
+</h3>
 
-- 📫 How to reach me **develiotarias@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Desarrollador de software enfocado en aplicaciones web empresariales, APIs REST y sistemas ERP.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Actualmente trabajando en un sistema ERP para una distribuidora de gas utilizando Angular 18 + Spring Boot + WebSockets.
+- 🌱 Aprendiendo y fortaleciendo conocimientos en arquitectura backend, buenas prácticas y despliegue de aplicaciones.
+- 💼 Experiencia en desarrollo Full Stack, mantenimiento de sistemas empresariales y construcción de APIs REST.
+- 🧩 Interesado en arquitectura de software, sistemas escalables y desarrollo empresarial.
+- 📍 Arequipa, Perú
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,laravel,python,django" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### ERP para Distribuidora de Gas
+Sistema empresarial desarrollado con Angular 18 y Spring Boot.
+
+**Características principales:**
+- Gestión de personal y recursos humanos
+- Control de ventas y pedidos
+- Gestión de clientes
+- Reportes y dashboards
+- Comunicación en tiempo real con WebSockets
+- Seguridad con JWT y control de roles
+
+---
+
+### eCommerce con Laravel
+Desarrollo Full Stack de plataforma eCommerce utilizando Laravel y Bootstrap.
+
+**Incluye:**
+- Catálogo de productos
+- Carrito de compras
+- Pasarela de pagos
+- Panel administrativo
+- Gestión de pedidos y usuarios
+
+---
+
+### Sistema de Gestión de Taller Mecánico
+Sistema web empresarial desarrollado con Angular y Spring Boot.
+
+**Funciones:**
+- Órdenes de trabajo
+- Gestión de vehículos
+- Control de inventario
+- Reportes y exportaciones
+- Gestión de usuarios y roles
+
+---
+
+## 📫 Contact
+
+- 📧 develiotarias@gmail.com
+- 💼 LinkedIn: *(agrega tu LinkedIn aquí)*
+- 🌎 Portafolio: *(cuando tengas tu GitHub Pages)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
