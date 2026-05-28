@@ -86,8 +86,8 @@ Sistema web empresarial desarrollado con Angular y Spring Boot.
 ## 📫 Contact
 
 - 📧 develiotarias@gmail.com
-- 💼 LinkedIn: *(agrega tu LinkedIn aquí)*
-- 🌎 Portafolio: *(cuando tengas tu GitHub Pages)*
+- 💼 LinkedIn: 
+- 🌎 Portafolio: 
 
 ---
 
