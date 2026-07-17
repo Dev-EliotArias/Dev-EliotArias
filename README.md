@@ -7,7 +7,7 @@ Llevo proyectos de principio a fin: requerimientos, arquitectura, desarrollo, de
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=1F2937&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dev-EliotArias&label=Profile%20views&color=1F2937&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Arequipa-Per%C3%BA-1F2937?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
