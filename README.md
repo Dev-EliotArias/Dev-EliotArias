@@ -60,12 +60,12 @@ Llevo proyectos de principio a fin: requerimientos, arquitectura, desarrollo, de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&title_color=1F2937&icon_color=4B5563&text_color=111827" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=1F2937&text_color=111827" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-EliotArias&show_icons=true&theme=default&hide_border=true&title_color=1F2937&icon_color=4B5563&text_color=111827" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-EliotArias&layout=compact&hide_border=true&title_color=1F2937&text_color=111827" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=FFFFFF&ring=1F2937&fire=1F2937&currStreakLabel=1F2937" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-EliotArias&hide_border=true&background=FFFFFF&ring=1F2937&fire=1F2937&currStreakLabel=1F2937" />
 </p>
 
 ---
